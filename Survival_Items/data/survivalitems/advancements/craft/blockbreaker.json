@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "survivalitems:blockbreaker"
+      }
+    }
+  },
+  "rewards": {
+    "function": "survivalitems:craft/blockbreaker"
+  }
+}

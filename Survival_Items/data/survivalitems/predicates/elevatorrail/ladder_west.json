@@ -1,0 +1,15 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "blocks": [
+          "minecraft:ladder"
+        ],
+        "state": {
+          "facing": "west"
+        }
+      }
+    }
+  }
+]

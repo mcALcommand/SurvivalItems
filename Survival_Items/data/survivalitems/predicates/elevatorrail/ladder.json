@@ -1,0 +1,19 @@
+[
+  {
+    "condition": "minecraft:location_check",
+    "predicate": {
+      "block": {
+        "blocks": [
+          "minecraft:ladder"
+        ]
+      }
+    }
+  },
+  {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "#survivalitems:minecarts"
+    }
+  }
+]

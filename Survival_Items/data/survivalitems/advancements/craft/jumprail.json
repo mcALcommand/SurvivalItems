@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "survivalitems:jumprail"
+      }
+    }
+  },
+  "rewards": {
+    "function": "survivalitems:craft/jumprail"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iii",
+        "DZR",
+        "iii"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond_pickaxe"
+        },
+        "Z": {
+            "item": "minecraft:dropper"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}
