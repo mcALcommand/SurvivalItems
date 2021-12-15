@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "_"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:white_carpet"
+        },
+        "_": {
+            "item": "minecraft:oak_slab"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}
