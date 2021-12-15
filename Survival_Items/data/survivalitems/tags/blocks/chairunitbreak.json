@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        "#minecraft:slabs",
-        "#minecraft:carpets",
-        "#minecraft:stairs"
-
-    ]
-}

@@ -1,1 +1,0 @@
-tellraw @a ["",{"text":"-------------------------\n\n[Survival_Items]のインストールが成功しました。\n[Survival_Items] has been installed.\n\nCreated by "},{"text":"AL","color":"gold"},{"text":"\n\n-------------------------"}]
